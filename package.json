@@ -10,7 +10,7 @@
     "discord.js": "^13.8.1",
     "dotenv": "16.0.1"
   },
-  "author": "Bilal Hussain",
+  "author": "Rana Mujtaba",
   "license": "ISC",
   "engines": {
     "node": "16.15.1",
